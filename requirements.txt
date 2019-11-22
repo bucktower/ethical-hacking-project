@@ -32,7 +32,7 @@ pyasn1==0.4.4
 pylint==2.3.1
 python-dateutil==2.7.5
 python-nmap==0.6.1
-PyYAML==3.13
+PyYAML==5.1
 Reindent==0.1.1
 requests==2.18.4
 rsa==3.4.2
